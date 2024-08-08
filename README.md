@@ -19,7 +19,7 @@
   
 E-Mail: mc118cn@126.com
 
-![](https://muhu-c-images.pages.dev/file/7fb60942edc06b86dcee8.gif)
+![](https://muhu-c-images.pages.dev/file/79d74b50e1ea9020b7ece.png)
 <!--
 **Muhu-C/Muhu-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
