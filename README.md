@@ -11,7 +11,9 @@
 - 2024暑假结束后停更  
 - 由于全年级就只有我对编程了解很多，我现在急需兴趣相投的好友，可以联系[B站账号](https://space.bilibili.com/1469137723)  
 
-仍然活着的仓库  
+小号：MC118CN
+  
+仓库  
   
 - [Muhu_SL](https://github.com/Muhu-C/MuhuSL-WPF) （已在2023年停更）  
 - [博客](https://github.com/Muhu-C/muhu-c.github.io) （它竟然还活着）
