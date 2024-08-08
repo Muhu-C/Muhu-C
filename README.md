@@ -1,14 +1,14 @@
 ## 幄试来自中国的一名初中生  
-*I'm a Grade 8(until 2024/9/1) student from China*  
-***Chinese Article***
+*I'm a Grade 9 student from China*  
+***zh-CN***
   
-我在 GitHub 上是一名热爱Python, C++, C#（这个语言114514年没写过代码了，忘光了）的软件爱好者。  
+我在 GitHub 上是一名热爱Python（这个语言114514年没写过代码了，忘光了）, C++, C#的软件爱好者。  
   
 - 会一些 Python，正在学习 C++，备考10月CSP-J  
 - 对计算机硬件很感兴趣  
 - 偶尔更新自己的[博客](https://muhu-c.github.io)  
 - 经常玩原神，有时玩MC  
-- 可能2024暑假还会再编写程序吧  
+- 2024暑假结束后停更  
 - 由于全年级就只有我对编程了解很多，我现在急需兴趣相投的好友，可以联系[B站账号](https://space.bilibili.com/1469137723)  
 
 仍然活着的仓库  
