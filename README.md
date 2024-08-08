@@ -17,11 +17,12 @@
 - [博客](https://github.com/Muhu-C/muhu-c.github.io) （它竟然还活着）
 - [DateTimer](https://github.com/Muhu-C/DateTimer) （2024.8.25 停更至 2025.6.20)
   
-E-Mail: mc118cn@126.com
-
-![](https://muhu-c-images.pages.dev/file/79d74b50e1ea9020b7ece.png)
+E-Mail: mc118cn@126.com  
+  
+![avatar](https://github.com/user-attachments/assets/aeadf5de-c285-47fc-af3f-535ada58e0d0)   
 <!--
 **Muhu-C/Muhu-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
