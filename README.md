@@ -2,7 +2,7 @@
 *I'm a Grade 9 student from China*  
 ***zh-CN***
   
-我在 GitHub 上是一名热爱Python（这个语言114514年没写过代码了，忘光了）, C++, C#的软件爱好者。  
+##### 我在 GitHub 上是一名热爱Python（这个语言114514年没写过代码了，忘光了）, C++, C#的软件爱好者。  
   
 - 会一些 Python，正在学习 C++，备考10月CSP-J  
 - 对计算机硬件很感兴趣  
@@ -13,9 +13,10 @@
 
 小号：MC118CN
   
-仓库  
-  
-- [Muhu_SL](https://github.com/Muhu-C/MuhuSL-WPF) （已在2023年停更）  
+### 仓库  
+
+- [Muhu SL(WinForm)](https://github.com/Muhu-C/Muhu-SL) （早期版本）  
+- [Muhu SL(WPF)](https://github.com/Muhu-C/MuhuSL-WPF) （已在2023年停更）  
 - [博客](https://github.com/Muhu-C/muhu-c.github.io) （它竟然还活着）
 - [DateTimer](https://github.com/Muhu-C/DateTimer) （2024.8.25 停更至 2025.6.20)
   
