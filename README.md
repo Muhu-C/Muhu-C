@@ -18,7 +18,7 @@
 - [Muhu SL(WinForm)](https://github.com/Muhu-C/Muhu-SL) （早期版本）  
 - [Muhu SL(WPF)](https://github.com/Muhu-C/MuhuSL-WPF) （已在2023年停更）  
 - [博客](https://github.com/Muhu-C/muhu-c.github.io) （它竟然还活着）
-- [DateTimer](https://github.com/Muhu-C/DateTimer) （2024.8.25 停更至 2025.6.20)
+- [DateTimer](https://github.com/Muhu-C/DateTimer) （1.2.0 已完结)
   
 E-Mail: mc118cn@126.com  
   
