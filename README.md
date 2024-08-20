@@ -1,6 +1,4 @@
 ## 幄试来自中国的一名初中生  
-*I'm a Grade 9 student from China*  
-***zh-CN***
   
 ##### 我在 GitHub 上是一名热爱Python（这个语言114514年没写过代码了，忘光了）, C++, C#的软件爱好者。  
   
