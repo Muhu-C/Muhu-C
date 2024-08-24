@@ -17,6 +17,7 @@
 - [Muhu SL(WPF)](https://github.com/Muhu-C/MuhuSL-WPF) （已在2023年停更）  
 - [博客](https://github.com/Muhu-C/muhu-c.github.io) （它竟然还活着）
 - [DateTimer](https://github.com/Muhu-C/DateTimer) （1.2.0 已完结)
+- [DateTimer 2](https://github.com/Muhu-C/DateTimer2) （2025 更新)
   
 E-Mail: mc118cn@126.com  
   
