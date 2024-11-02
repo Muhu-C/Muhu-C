@@ -2,12 +2,11 @@
   
 ##### 我在 GitHub 上是一名热爱Python（这个语言114514年没写过代码了，忘光了）, C++, C#的软件爱好者。  
   
-- 会一些 Python，正在学习 C++，备考10月CSP-J  
+- 会一些 Python，正在学习 C++  
 - 对计算机硬件很感兴趣  
 - 偶尔更新自己的[博客](https://muhu-c.github.io)  
 - 经常玩原神，有时玩MC  
-- 2024暑假结束后停更  
-- 由于全年级就只有我对编程了解很多，我现在急需兴趣相投的好友，可以联系[B站账号](https://space.bilibili.com/1469137723)  
+- 可以联系[B站账号](https://space.bilibili.com/1469137723)  
 
 小号：MC118CN
   
@@ -15,8 +14,8 @@
 
 - [Muhu SL(WinForm)](https://github.com/Muhu-C/Muhu-SL) （早期版本）  
 - [Muhu SL(WPF)](https://github.com/Muhu-C/MuhuSL-WPF) （已在2023年停更）  
-- [博客](https://github.com/Muhu-C/muhu-c.github.io) （它竟然还活着）
-- [DateTimer](https://github.com/Muhu-C/DateTimer) （1.2.0 已完结)
+- [博客](https://github.com/Muhu-C/muhu-c.github.io) （它还活着）
+- [DateTimer](https://github.com/Muhu-C/DateTimer) （已完结)
 - [DateTimer 2](https://github.com/Muhu-C/DateTimer2) （2025 更新)
   
 E-Mail: mc118cn@126.com  
