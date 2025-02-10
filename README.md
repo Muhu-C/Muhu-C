@@ -13,7 +13,7 @@
 
 - [Muhu SL(WinForm)](https://github.com/Muhu-C/Muhu-SL) （已在 2023 年停更）  
 - [Muhu SL(WPF)](https://github.com/Muhu-C/MuhuSL-WPF) （已在 2023 年停更）  
-- [博客](https://github.com/Muhu-C/muhu-c.github.io) （由于某些原因，CloudFlare 的博客无法加载！）
+- [博客](https://github.com/Muhu-C/muhu-c.github.io) （由于某些原因，CloudFlare 的博客无法加载）
 - [DateTimer](https://github.com/Muhu-C/DateTimer) （已完结)
 - [DateTimer 2](https://github.com/Muhu-C/DateTimer2) （2025 更新)
   
