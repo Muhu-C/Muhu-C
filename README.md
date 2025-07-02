@@ -1,6 +1,5 @@
-## 幄试来自中国的一名中考生  
-### 由于中考原因，本人在 2025 年 6 月 28 日前不再登录 Github.  
-##### 我在 GitHub 上是一名热爱 Python（这个语言114514年没写过代码，忘光了）, C++, C#的软件爱好者.  
+## 幄试一名高中生  
+##### 我在 GitHub 上是一名热爱 Python, C++, C#的软件爱好者.  
   
 - 会一点 Python，正在学习 C++  
 - 对计算机硬件很感兴趣  
@@ -13,9 +12,9 @@
 
 - [Muhu SL(WinForm)](https://github.com/Muhu-C/Muhu-SL) （已在 2023 年停更）  
 - [Muhu SL(WPF)](https://github.com/Muhu-C/MuhuSL-WPF) （已在 2023 年停更）  
-- [博客](https://github.com/Muhu-C/muhu-c.github.io) （由于某些原因，CloudFlare 的博客无法加载）
+- [博客](https://github.com/Muhu-C/muhu-c.github.io) 
 - [DateTimer](https://github.com/Muhu-C/DateTimer) （已完结)
-- [DateTimer 2](https://github.com/Muhu-C/DateTimer2) （2025 更新)
+- [DateTimer 2](https://github.com/Muhu-C/DateTimer2) （更新中)
   
 E-Mail: mc118cn@126.com  
   
