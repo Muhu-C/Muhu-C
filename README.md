@@ -1,7 +1,7 @@
-## 关于我  
+## 关于我 [en](https://github.com/Muhu-C/Muhu-C/blob/main/README_EN.md)  
   
 ### 幄试一名高中生  
-### 我在 GitHub 上是一名热爱 Python, C++, C#的软件爱好者.  
+### 也是一名热爱 Python, C++, C#的软件爱好者.  
   
 - 会一点 Python，正在学习 C++  
 - 对计算机硬件很感兴趣  
@@ -16,11 +16,9 @@
 - [Muhu SL(WPF)](https://github.com/Muhu-C/MuhuSL-WPF) （已在 2023 年停更）  
 - [博客](https://github.com/Muhu-C/muhu-c.github.io) 
 - [DateTimer](https://github.com/Muhu-C/DateTimer) （已完结)
-- [DateTimer 2](https://github.com/Muhu-C/DateTimer2) （更新中)
+- [DateTimer 2](https://github.com/Muhu-C/DateTimer2) （大力更新中)
   
 E-Mail: mc118cn@126.com  
-  
-![avatar](https://gitee.com/zzhkjf/images/raw/master/gif.gif)   
 <!--
 **Muhu-C/Muhu-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
