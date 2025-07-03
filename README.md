@@ -1,4 +1,5 @@
-## 关于我 [en](https://github.com/Muhu-C/Muhu-C/blob/main/README_EN.md)  
+## 关于我  
+##### [English](https://github.com/Muhu-C/Muhu-C/blob/main/README_EN.md)  
   
 ### 幄试一名高中生  
 ### 也是一名热爱 Python, C++, C#的软件爱好者.  
