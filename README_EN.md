@@ -1,4 +1,4 @@
-## Introductions - About me  
+## About me  
 ##### [中](https://github.com/Muhu-C/Muhu-C/blob/main/README.md)  
   
 ### Hello! I'm a senior high school student currently.  
@@ -10,7 +10,7 @@
 
 Secondary account：MC118CN
   
-### My projects - Repositories  
+### My projects  
 
 - [Muhu SL(WinForm)](https://github.com/Muhu-C/Muhu-SL) （Completed in 2023）  
 - [Muhu SL(WPF)](https://github.com/Muhu-C/MuhuSL-WPF) （Completed in 2023）  
