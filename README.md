@@ -21,7 +21,7 @@
 邮箱: mc118cn@126.com  
 博客: [博客地址](https://muhu-c.github.io)  
 
-#### 2025 ~ 2028 年期间不登录 Bilibili 账号，请转至 邮箱 或 [米游社 @MC118CN(开极煞毕)](https://www.miyoushe.com/ys/accountCenter/postList?id=340946548)
+#### 2025 ~ 2028 年期间不登录 Bilibili 账号，如需联系，请转至 邮箱 或 [米游社 @MC118CN(开极煞毕)](https://www.miyoushe.com/ys/accountCenter/postList?id=340946548)
 <!--
 **Muhu-C/Muhu-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
