@@ -17,5 +17,5 @@ Secondary account：MC118CN
 - [DateTimer](https://github.com/Muhu-C/DateTimer) （Completed)
 - [DateTimer 2](https://github.com/Muhu-C/DateTimer2) （Stopped updating, plan to update in 2028)
   
-E-Mail: mc118cn@126.com
-Blog(CN): [Link](https://mc118cn.github.io)
+E-Mail: mc118cn@126.com  
+Blog(CN): [Link](https://muhu-c.github.io)
