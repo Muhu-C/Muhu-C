@@ -19,7 +19,7 @@
 - [DateTimer 2](https://github.com/Muhu-C/DateTimer2) （已停更，预计 2028 年恢复更新)
   
 邮箱: mc118cn@126.com  
-博客: [博客地址](https://mc118cn.github.io)  
+博客: [博客地址](https://muhu-c.github.io)  
 <!--
 **Muhu-C/Muhu-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
