@@ -4,9 +4,9 @@
 ### Hello! I'm a senior high school student.  
 ### Also, I'm a program fan, learning C++, Python, C# and so on.  
     
-- I am extremely interested in computer hardware.  
-- Sometimes, I write my [blog](https://muhu-c.github.io).  
-- ~~If you want to contact me, you can visit my Bilibili account.~~ Pls contact me by Mihoyo BBS or E-mail.  
+> I am extremely interested in computer hardware.  
+> Sometimes, I write my [blog](https://muhu-c.github.io).  
+> ~~If you want to contact me, you can visit my Bilibili account.~~ Pls contact me by Mihoyo BBS or E-mail.  
 
 Secondary account：MC118CN
   
