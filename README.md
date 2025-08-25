@@ -7,7 +7,7 @@
 - 会一点 Python，正在学习 C++  
 - 对计算机硬件很感兴趣  
 - 偶尔更新自己的[博客](https://muhu-c.github.io)  
-- 可以联系[B站账号](https://space.bilibili.com/1469137723)  
+- ~~可以联系B站账号~~2025 ~ 2028 年期间不登录 Bilibili 账号，如需联系，请转至 邮箱 或 [米游社 @MC118CN(开极煞毕)](https://www.miyoushe.com/ys/accountCenter/postList?id=340946548)  
 
 小号：MC118CN
   
@@ -21,7 +21,7 @@
 邮箱: mc118cn@126.com  
 博客: [博客地址](https://muhu-c.github.io)  
 
-#### 2025 ~ 2028 年期间不登录 Bilibili 账号，如需联系，请转至 邮箱 或 [米游社 @MC118CN(开极煞毕)](https://www.miyoushe.com/ys/accountCenter/postList?id=340946548)
+
 <!--
 **Muhu-C/Muhu-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
