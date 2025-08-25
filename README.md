@@ -15,11 +15,11 @@
 
 - [Muhu SL(WinForm)](https://github.com/Muhu-C/Muhu-SL) （已在 2023 年停更）  
 - [Muhu SL(WPF)](https://github.com/Muhu-C/MuhuSL-WPF) （已在 2023 年停更）  
-- [博客](https://github.com/Muhu-C/muhu-c.github.io) 
 - [DateTimer](https://github.com/Muhu-C/DateTimer) （已完结)
-- [DateTimer 2](https://github.com/Muhu-C/DateTimer2) （大力更新中)
+- [DateTimer 2](https://github.com/Muhu-C/DateTimer2) （已停更，预计 2028 年恢复更新)
   
-E-Mail: mc118cn@126.com  
+邮箱: mc118cn@126.com  
+博客: [博客地址](https://mc118cn.github.io)  
 <!--
 **Muhu-C/Muhu-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
