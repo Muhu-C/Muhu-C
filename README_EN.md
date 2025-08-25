@@ -3,6 +3,7 @@
   
 ### Hello! I'm a senior high school student.  
 ### Also, I'm a program fan, learning C++, Python, C# and so on.  
+### (poor in English)
     
 > I am extremely interested in computer hardware.  
 > Sometimes, I write my [blog](https://muhu-c.github.io).  
