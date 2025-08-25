@@ -6,7 +6,7 @@
     
 - I am extremely interested in computer hardware.  
 - Sometimes, I write my [blog](https://muhu-c.github.io).  
-- If you want to contact me, you can visit my [Bilibili account](https://space.bilibili.com/1469137723).  
+- ~~If you want to contact me, you can visit my Bilibili account.~~ Pls contact me by Mihoyo BBS or E-mail.  
 
 Secondary account：MC118CN
   
