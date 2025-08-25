@@ -1,7 +1,7 @@
 ## About me  
 ##### [中](https://github.com/Muhu-C/Muhu-C/blob/main/README.md)  
   
-### Hello! I'm a senior high school student currently.  
+### Hello! I'm a senior high school student.  
 ### Also, I'm a program fan, learning C++, Python, C# and so on.  
     
 - I am extremely interested in computer hardware.  
