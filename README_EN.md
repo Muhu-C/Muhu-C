@@ -14,9 +14,8 @@ Secondary account：MC118CN
 
 - [Muhu SL(WinForm)](https://github.com/Muhu-C/Muhu-SL) （Completed in 2023）  
 - [Muhu SL(WPF)](https://github.com/Muhu-C/MuhuSL-WPF) （Completed in 2023）  
-- [Blog](https://github.com/Muhu-C/muhu-c.github.io) 
 - [DateTimer](https://github.com/Muhu-C/DateTimer) （Completed)
-- [DateTimer 2](https://github.com/Muhu-C/DateTimer2) （Updating...)
+- [DateTimer 2](https://github.com/Muhu-C/DateTimer2) （Stopped updating, plan to update in 2028)
   
-E-Mail: mc118cn@126.com  
-
+E-Mail: mc118cn@126.com
+Blog(CN): [Link](https://mc118cn.github.io)
